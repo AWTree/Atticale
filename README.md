@@ -1,2 +1,2 @@
-# Atticale 
-## A Media Sharing Website
+# Atticale (Media Sharing Website)
+
